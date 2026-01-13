@@ -19,7 +19,7 @@ Report & Notification Module:
 Generates daily and weekly reports on total meals booked, unused coupons, and food waste trends. Optional notifications or reminders can be sent to students for meal booking deadlines.
 
 Logout Option:
-A secure logout feature ensures data privacy and prevents unauthorized access after use.
+A secure logout feature ensures data privacy and prevents unauthorized access after use
 
 ## Purpose
 The purpose of this project is to streamline and automate the mess management process within educational institutions. It aims to promote sustainability by reducing food waste, enhance operational efficiency for mess staff, and provide convenience and transparency for students through digital meal booking and management.

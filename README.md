@@ -1,6 +1,6 @@
 ## Smart Mess Management System
 
-A Java Swing + MySQL based desktop application designed to optimize and digitalize the mess management process in college hostels. The system enables students to view daily meal menus, book meal coupons in advance, and helps mess authorities accurately estimate the required food quantity significantly reducing food waste and improving efficiency.
+A Java Swing + MySQL based desktop application designed to optimize and digitalize the mess management process in college hostels. The system enables students to view daily meal menus, book meal coupons in advance, and helps mess authorities accurately estimate the required food quantity significantly reducing food waste and improving efficiency
 
 ## Key Features
 Login Interface:
